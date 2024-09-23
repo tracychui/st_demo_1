@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-pip install matplotlib
+pip3 install matplotlib
 import matplotlib.pyplot as plt
 
 st.title("Simple Data Dashboard")
